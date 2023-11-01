@@ -1,0 +1,14 @@
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\bin\Debug\net6.0\TheDogtorAppointment.exe
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\bin\Debug\net6.0\TheDogtorAppointment.deps.json
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\bin\Debug\net6.0\TheDogtorAppointment.runtimeconfig.json
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\bin\Debug\net6.0\TheDogtorAppointment.dll
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\bin\Debug\net6.0\TheDogtorAppointment.pdb
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\obj\Debug\net6.0\TheDogtorAppointment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\obj\Debug\net6.0\TheDogtorAppointment.AssemblyInfoInputs.cache
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\obj\Debug\net6.0\TheDogtorAppointment.AssemblyInfo.cs
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\obj\Debug\net6.0\TheDogtorAppointment.csproj.CoreCompileInputs.cache
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\obj\Debug\net6.0\TheDogtorAppointment.dll
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\obj\Debug\net6.0\refint\TheDogtorAppointment.dll
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\obj\Debug\net6.0\TheDogtorAppointment.pdb
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\obj\Debug\net6.0\TheDogtorAppointment.genruntimeconfig.cache
+C:\Users\CamiloZapata\source\repos\TestUnitMas\TheDogtorAppointment\obj\Debug\net6.0\ref\TheDogtorAppointment.dll

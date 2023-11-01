@@ -1,0 +1,14 @@
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\bin\Debug\net6.0\TheDoctorAppointment.exe
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\bin\Debug\net6.0\TheDoctorAppointment.deps.json
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\bin\Debug\net6.0\TheDoctorAppointment.runtimeconfig.json
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\bin\Debug\net6.0\TheDoctorAppointment.dll
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\bin\Debug\net6.0\TheDoctorAppointment.pdb
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\obj\Debug\net6.0\TheDoctorAppointment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\obj\Debug\net6.0\TheDoctorAppointment.AssemblyInfoInputs.cache
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\obj\Debug\net6.0\TheDoctorAppointment.AssemblyInfo.cs
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\obj\Debug\net6.0\TheDoctorAppointment.csproj.CoreCompileInputs.cache
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\obj\Debug\net6.0\TheDoctorAppointment.dll
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\obj\Debug\net6.0\refint\TheDoctorAppointment.dll
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\obj\Debug\net6.0\TheDoctorAppointment.pdb
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\obj\Debug\net6.0\TheDoctorAppointment.genruntimeconfig.cache
+C:\Users\CamiloZapata\source\repos\TheDoctorAppointment\obj\Debug\net6.0\ref\TheDoctorAppointment.dll
